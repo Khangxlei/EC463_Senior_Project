@@ -19,11 +19,18 @@ This is our circuit diagram for the T9 model. It uses pins 0, 3, and 4 as inputs
 
 
 ### CAD Design of T0 Housing
-This is the CAD design for our T0 Housing. It consist of one button integrated along with an area for users to plug in the power cable to turn on the model. We have also uploaded the .stl file under the _CAD_ folder. 
+This is the CAD design for our T0 Housing. It consist of one button integrated along with an area for users to plug in the power cable to turn on the model. We have also uploaded the .stl file under the _hardware_diagrams/CAD_ folder. 
 ![View CAD Design of T0 Housing](hardware_diagrams/T0_Housing.pdf)
 
 ### CAD Design of T9 Housing
-This is the CAD design for our T9 Housing. It consist of 2 buttons integrated, along with a hollow bridge that allows the wires to run from the circuit board to the LED that is placed along the small panel above. It also has an open area to allow users to plug in their power cable. The .stl file is under the _CAD_ folder. 
+This is the CAD design for our T9 Housing. It consist of 2 buttons integrated, along with a hollow bridge that allows the wires to run from the circuit board to the LED that is placed along the small panel above. It also has an open area to allow users to plug in their power cable. The .stl file is under the _hardware_diagrams/CAD_ folder. 
 ![View CAD Design of T9 Housing](hardware_diagrams/T9_Housing.pdf)
+
+#### CAD File (.STL)
+Download the STL file for the T0 Model CAD design here:
+[T0 STL CAD File (1/3)](hardware_diagrams/CAD/T9_Trinket_housing_cover.stl)
+[T0 STL CAD File (2/3)](hardware_diagrams/CAD/T9_Trinket_housing.stl)
+[T0 STL CAD File (3/3)](hardware_diagrams/CAD/T9_prototyping_board_housing.stl)
+
 
 
