@@ -20,7 +20,7 @@ This is our circuit diagram for the T9 model. It uses pins 0, 3, and 4 as inputs
 
 ### T0 Housing
 
-This is the CAD design for our T0 Housing. It consist of one button integrated along with an area for users to plug in the power cable to turn on the model. We have also uploaded the .stl file under the _hardware_diagrams/CAD_ folder. 
+This is the CAD design for our T0 Housing. It consist of one button integrated along with an area for users to plug in the power cable to turn on the model. We have also uploaded the .stl file under the _hardware_diagrams/CAD_ folder and attached a PDF version of the CAD design down below.
 
 
 ![T0 Housing](hardware_diagrams/CAD/T0_Housing.png) [View PDF of T0 Housing](hardware_diagrams/CAD/T0_Housing.pdf)   
@@ -30,7 +30,7 @@ Download the STL file for the T0 Model CAD design here:
 - [T0 STL CAD File)](hardware_diagrams/CAD/T0_Housing.stl)
 
 ### T0 Panel Stand
-We used a pre-existing CAD design for a panel stand. This design allows 5 different angle configurations for the user to use the panel at whichever height they desire. We have also uploaded the .stl file under the _hardware_diagrams/CAD_ folder. 
+We used a pre-existing CAD design for a panel stand. This design allows 5 different angle configurations for the user to use the panel at whichever height they desire. We have also uploaded the .stl file under the _hardware_diagrams/CAD_ folder and attached a PDF version of the CAD design down below.
 
 ![T0 Stand Arm](hardware_diagrams/CAD/T0_Stand_Arm.png) [View PDF of T0 Stand Arm](hardware_diagrams/CAD/T0_Stand_Arm.pdf)   
    
@@ -49,8 +49,19 @@ Download the STL file for the T0 Model CAD design here: _Emily should send the .
 - [T0 Stand STL CAD File (3/3)](hardware_diagrams/CAD/T0_Stand_Hook.stl)
   
 ### T9
-This is the CAD design for our T9 Housing. It consist of 2 buttons integrated, along with a hollow bridge that allows the wires to run from the circuit board to the LED that is placed along the small panel above. It also has an open area to allow users to plug in their power cable. The .stl file is under the _hardware_diagrams/CAD_ folder. 
-![View CAD Design of T9 Housing](hardware_diagrams/T9_Housing.pdf)
+This is the CAD design for our T9 Housing. It consist of 2 buttons integrated, along with a hollow bridge that allows the wires to run from the circuit board to the LED that is placed along the small panel above. It also has an open area to allow users to plug in their power cable. The .stl file is under the _hardware_diagrams/CAD_ folder and attached a PDF version of the CAD design down below.
+
+![T9 Housing (1/3)](hardware_diagrams/CAD/T9_Housing_1.png) 
+   
+[View PDF of T9 Housing 1](hardware_diagrams/CAD/T9_Housing_1.pdf)   
+   
+![T9 Housing (2/3)](hardware_diagrams/CAD/T9_Housing_2.png) 
+   
+[View PDF of T9 Housing 2](hardware_diagrams/CAD/T9_Housing_2.pdf)    
+   
+![T9 Housing (3/3)](hardware_diagrams/CAD/T9_Housing_3.png) 
+   
+[View PDF of T9 Housing 3](hardware_diagrams/CAD/T9_Housing_3.pdf)    
 
 #### CAD File (.STL)
 Download the STL file for the T9 Model CAD design here:
@@ -91,13 +102,12 @@ Below is additional information about the vendors from whom components were purc
   - **Website:** [Amazon.com](https://www.amazon.com/)
   - **Contact:** [Amazon Contact Page](https://www.amazon.com/gp/css/contact-us-access/ref=cu_surl_text_trace)
   - **Phone:** 1-888-280-4331
-  - 
 
 # Power Requirements
 
 This section outlines the power specifications required to operate the 40Hz LED Panel effectively.
 
-##T0 
+## T0 
 ### Voltage Requirements
 - **Operating Voltage:** 5V
 - **Minimum Voltage:** 5V
@@ -117,7 +127,24 @@ This section outlines the power specifications required to operate the 40Hz LED 
 - **Maximum Power Consumption:** X Watts (under full load)
 
 
-##T9
+## T9
+### Voltage Requirements
+- **Operating Voltage:** 5V
+- **Minimum Voltage:** 5V
+- **Maximum Voltage:** 12V
+
+### Current Requirements
+- **Operating Current:** X A
+- **Peak Current:** X A (during operation)
+- **Standby Current:** X A (when idle)
+
+### Power Supply Model
+- **Recommended Power Supply:** [Model XYZ](link-to-power-supply-datasheet)
+- **Manufacturer:** Manufacturer Name
+
+### Power Consumption
+- **Typical Power Consumption:** X Watts
+- **Maximum Power Consumption:** X Watts (under full load)
 
 ### Additional Notes
 - Make sure to use a power supply that matches or exceeds the required specifications.
@@ -166,9 +193,3 @@ The video below is a full demonstration of the T9 model. It is small and compact
  - [Arduino Nano Documentation](https://docs.arduino.cc/hardware/nano/)
  - [Operating LED Documentation](https://img.kwcdn.com/product-file-public/1fa3201b30/e1cf93ef936620d4e02b9221dc2b4623.pdf?_x_sessn_id=po0ericp0z&refer_page_name=goods&refer_page_id=10032_1714006419912_5y583ihzke&refer_page_sn=10032)
  - [Adafruit Trinket M0 Documentation](https://www.play-zone.ch/en/fileuploader/download/download/?d=1&file=custom%2Fupload%2FFile-1507818705.pdf)
-
-   
-
-
-
-
