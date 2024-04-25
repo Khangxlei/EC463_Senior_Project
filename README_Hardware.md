@@ -127,25 +127,23 @@ These are pictures of the system circuit for the T0 model. This is what is insid
 
 ## T9 (inside enclosure)
 
-These pictures shows the system for the T9 model. The LED strips are not present as they are replaced by a simple red LED to make it easier to see the circuit. Below will be pictures of the LED being connected to our system that is being enclosed by our housing. 
+The picture below shows the system for the T9 model. The two yellow wires are the power and ground wires connecting towards the LED. 
 
-![System Circuit (1)](system_pictures/T9_circuit_1.jpg)
-![System Circuit (2)](system_pictures/T9_circuit_2.jpg)
+![System Circuit (1)](system_pictures/T9_Circuit_1.png)
 
 ## T0 (with enclosure)
 
 These are pictures of the system circuit for the T0 model. This is what is inside the enclosure, before we placed a housing over it. The pictures displays the circuit board with the components that we used for the T0 model.
 
-![System Circuit (1)](system_pictures/T0_Circuit_1.png)
-![System Circuit (2)](system_pictures/T0_Circuit_2.JPG)
+![T0 Complete Circuit Front](system_pictures/T0_complete_product_front.png)
+![T0 Complete Circuit Back](system_pictures/T0_complete_product_back.jpg)
 
 
-## T9 (inside enclosure)
+## T9 (with enclosure)
 
-The picture below shows the system for the T9 model. The two yellow wires are the power and ground wires connecting towards the LED. 
+The video below is a full demonstration of the T9 model. It is small and compact and there are buttons in the back that are used to adjust the brightness intensity of the LED. 
 
-![System Circuit (1)](system_pictures/T9_circuit_1.jpg)
-
+![T9 Video with Enclosure](system_pictures/T9_final_product.mov)
 
 
 # Notes
