@@ -117,20 +117,34 @@ This section outlines the power specifications required to operate the 40Hz LED 
 
 This section provides a clear view of the system inside the enclosure. 
 
-## T0
+## T0 (inside enclosure)
 
-These are pictures of the system circuit of the T0. This is what is inside the enclosure, before we placed a housing over it. The pictures displays the circuit board with the components that we used for the T0 model.
+These are pictures of the system circuit for the T0 model. This is what is inside the enclosure, before we placed a housing over it. The pictures displays the circuit board with the components that we used for the T0 model.
 
 ![System Circuit (1)](system_pictures/T0_Circuit_1.png)
 ![System Circuit (2)](system_pictures/T0_Circuit_2.JPG)
 
 
-## T9
+## T9 (inside enclosure)
 
-These pictures shows the system of the T9 model. The LED strips are not present as they are replaced by a simple red LED to make it easier to see the circuit. Below will be pictures of the LED being connected to our system that is being enclosed by our housing. 
+These pictures shows the system for the T9 model. The LED strips are not present as they are replaced by a simple red LED to make it easier to see the circuit. Below will be pictures of the LED being connected to our system that is being enclosed by our housing. 
 
 ![System Circuit (1)](system_pictures/T9_circuit_1.jpg)
 ![System Circuit (2)](system_pictures/T9_circuit_2.jpg)
+
+## T0 (with enclosure)
+
+These are pictures of the system circuit for the T0 model. This is what is inside the enclosure, before we placed a housing over it. The pictures displays the circuit board with the components that we used for the T0 model.
+
+![System Circuit (1)](system_pictures/T0_Circuit_1.png)
+![System Circuit (2)](system_pictures/T0_Circuit_2.JPG)
+
+
+## T9 (inside enclosure)
+
+The picture below shows the system for the T9 model. The two yellow wires are the power and ground wires connecting towards the LED. 
+
+![System Circuit (1)](system_pictures/T9_circuit_1.jpg)
 
 
 
@@ -143,6 +157,8 @@ These pictures shows the system of the T9 model. The LED strips are not present 
  - [Arduino Nano Documentation](https://docs.arduino.cc/hardware/nano/)
  - [Operating LED Documentation](https://img.kwcdn.com/product-file-public/1fa3201b30/e1cf93ef936620d4e02b9221dc2b4623.pdf?_x_sessn_id=po0ericp0z&refer_page_name=goods&refer_page_id=10032_1714006419912_5y583ihzke&refer_page_sn=10032)
  - [Adafruit Trinket M0 Documentation](https://www.play-zone.ch/en/fileuploader/download/download/?d=1&file=custom%2Fupload%2FFile-1507818705.pdf)
+
+   
 
 
 
