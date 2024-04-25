@@ -143,7 +143,7 @@ These are pictures of the system circuit for the T0 model. This is what is insid
 
 The video below is a full demonstration of the T9 model. It is small and compact and there are buttons in the back that are used to adjust the brightness intensity of the LED. 
 
-![T9 Video with Enclosure](system_pictures/T9_final_product.mov)
+![T9 Video with Enclosure](system_pictures/T9_complete_product.gif)
 
 
 # Notes
