@@ -5,31 +5,49 @@
 ### T0
 This is our circuit diagram for the T0 model. It uses pins 3, 4, and 5 as inputs and pins 5V and Ground as outputs. The circuit diagram illustrates an Arduino Nano wired with a button and a MOSFET towards an LED.
 ![Preview of T0 Circuit Diagram](hardware_diagrams/T0_Circuit_Diagram.jpg)
-![View PDF of T0 Circuit Diagram](hardware_diagrams/T0_Circuit_Diagram.pdf)
+[View PDF of T0 Circuit Diagram](hardware_diagrams/T0_Circuit_Diagram.pdf)
 
 
 ### T9
 This is our circuit diagram for the T9 model. It uses pins 0, 3, and 4 as inputs and pins 3V and Ground as outputs. The circuit diagram illustrates an Arduino Nano wired with 2 buttons and a MOSFET towards an LED.
 
 ![Preview of T9 Circuit Diagram](hardware_diagrams/T9_Circuit_Diagram.jpg)
-![View PDF of T9 Circuit Digram](hardware_diagrams/T9_Circuit_Diagram.pdf)
+[View PDF of T9 Circuit Digram](hardware_diagrams/T9_Circuit_Diagram.pdf)
 
 
 
 ## CAD Design
 
 ### T0 Housing
-This is the CAD design for our T0 Housing. It consist of one button integrated along with an area for users to plug in the power cable to turn on the model. We have also uploaded the .stl file under the _hardware_diagrams/CAD_ folder. 
-![View CAD Design of T0 Housing](hardware_diagrams/T0_Housing.pdf)
 
-#### CAD File (.STL)
-Download the STL file for the T0 Model CAD design here: _Emily should send the .stl files and replace that with this_
+## Emily should send the .stl files and replace that with this
+This is the CAD design for our T0 Housing. It consist of one button integrated along with an area for users to plug in the power cable to turn on the model. We have also uploaded the .stl file under the _hardware_diagrams/CAD_ folder. 
+
+
+![T0 Housing_1](hardware_diagrams/CAD/T0_Housing_1.png) [View PDF of T0 Housing 1](hardware_diagrams/CAD/T0_Housing_1.pdf)   
+   
+![T0 Housing_2](hardware_diagrams/CAD/T0_Housing_2.png) [View PDF of T0 Housing 2](hardware_diagrams/CAD/T0_Housing_2.pdf)    
+   
+![T0 Housing_2](hardware_diagrams/CAD/T0_Housing_3.png) [View PDF of T0 Housing 3](hardware_diagrams/CAD/T0_Housing_3.pdf)    
+
+#### CAD File (.STL) 
+Download the STL file for the T0 Model CAD design here: 
 - [T0 STL CAD File (1/3)](hardware_diagrams/CAD/T9_Trinket_housing_cover.stl)
 - [T0 STL CAD File (2/3)](hardware_diagrams/CAD/T9_Trinket_housing.stl)
 - [T0 STL CAD File (3/3)](hardware_diagrams/CAD/T9_prototyping_board_housing.stl)
 
 ### T0 Panel Stand
-We used a pre-existing CAD design for a panel stand. This design allows 5 different angle configurations for the user to use the panel at whichever height they desire. We have also uploaded the .stl file under the _hardware_diagrams/CAD_ folder. ![View CAD Design of T0 Panel Stand](hardware_diagrams/T0_Stand.pdf)
+We used a pre-existing CAD design for a panel stand. This design allows 5 different angle configurations for the user to use the panel at whichever height they desire. We have also uploaded the .stl file under the _hardware_diagrams/CAD_ folder. 
+
+![T0 Stand Arm](hardware_diagrams/CAD/T0_Stand_Arm.png) [View PDF of T0 Stand Arm](hardware_diagrams/CAD/T0_Stand_Arm.pdf)   
+   
+![T0 Stand Hook](hardware_diagrams/CAD/T0_Stand_Hook.png) [View PDF of T0 Stand Hook](hardware_diagrams/CAD/T0_Stand_Hook.pdf)    
+   
+![T0 Stand Bottom](hardware_diagrams/CAD/T0_Stand_Bottom.png) [View PDF of T0 Stand Bottom](hardware_diagrams/CAD/T0_Stand_Bottom.pdf)    
+
+
+
+
 
 #### CAD File (.STL)
 Download the STL file for the T0 Model CAD design here: _Emily should send the .stl files and replace that with this_
