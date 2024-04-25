@@ -10,6 +10,7 @@ This is our circuit diagram for the T0 model. It uses pins 3, 4, and 5 as inputs
 
 ### T9
 This is our circuit diagram for the T9 model. It uses pins 0, 3, and 4 as inputs and pins 3V and Ground as outputs. The circuit diagram illustrates an Arduino Nano wired with 2 buttons and a MOSFET towards an LED.
+
 ![Preview of T9 Circuit Diagram](hardware_diagrams/T9_Circuit_Diagram.jpg)
 ![View PDF of T9 Circuit Digram](hardware_diagrams/T9_Circuit_Diagram.pdf)
 
@@ -85,7 +86,6 @@ Below is additional information about the vendors from whom components were purc
 
 This section outlines the power specifications required to operate the 40Hz LED Panel effectively.
 
-
 ##T0 
 ### Voltage Requirements
 - **Operating Voltage:** 5V
@@ -120,6 +120,7 @@ This section provides a clear view of the system inside the enclosure.
 ## T0
 
 These are pictures of the system circuit of the T0. This is what is inside the enclosure, before we placed a housing over it. The pictures displays the circuit board with the components that we used for the T0 model.
+
 ![System Circuit (1)](system_pictures/T0_Circuit_1.png)
 ![System Circuit (2)](system_pictures/T0_Circuit_2.JPG)
 
@@ -127,6 +128,7 @@ These are pictures of the system circuit of the T0. This is what is inside the e
 ## T9
 
 These pictures shows the system of the T9 model. The LED strips are not present as they are replaced by a simple red LED to make it easier to see the circuit. Below will be pictures of the LED being connected to our system that is being enclosed by our housing. 
+
 ![System Circuit (1)](system_pictures/T9_circuit_1.jpg)
 ![System Circuit (2)](system_pictures/T9_circuit_2.jpg)
 
