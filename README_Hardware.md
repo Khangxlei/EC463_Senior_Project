@@ -110,41 +110,33 @@ This section outlines the power specifications required to operate the 40Hz LED 
 ## T0 
 ### Voltage Requirements
 - **Operating Voltage:** 5V
-- **Minimum Voltage:** 5V
-- **Maximum Voltage:** 12V
+- **Minimum Voltage:** 0V
+- **Maximum Voltage:** 5V
 
 ### Current Requirements
-- **Operating Current:** X A
-- **Peak Current:** X A (during operation)
-- **Standby Current:** X A (when idle)
-
-### Power Supply Model
-- **Recommended Power Supply:** [Model XYZ](link-to-power-supply-datasheet)
-- **Manufacturer:** Manufacturer Name
+- **Operating Current:** 2 A
+- **Peak Current:** 2.4 A (during operation)
+- **Standby Current:** 10mA ~ 100mA (when idle)
 
 ### Power Consumption
-- **Typical Power Consumption:** X Watts
-- **Maximum Power Consumption:** X Watts (under full load)
+- **Typical Power Consumption:** 10 Watts
+- **Maximum Power Consumption:** 12 Watts (under full load)
 
 
 ## T9
 ### Voltage Requirements
-- **Operating Voltage:** 5V
-- **Minimum Voltage:** 5V
-- **Maximum Voltage:** 12V
+- **Operating Voltage:** 3V
+- **Minimum Voltage:** 0V
+- **Maximum Voltage:** 3V
 
 ### Current Requirements
-- **Operating Current:** X A
-- **Peak Current:** X A (during operation)
-- **Standby Current:** X A (when idle)
-
-### Power Supply Model
-- **Recommended Power Supply:** [Model XYZ](link-to-power-supply-datasheet)
-- **Manufacturer:** Manufacturer Name
+- **Operating Current:** 2 A
+- **Peak Current:** 2.4 A (during operation)
+- **Standby Current:** 10mA ~ 100mA (when idle)
 
 ### Power Consumption
-- **Typical Power Consumption:** X Watts
-- **Maximum Power Consumption:** X Watts (under full load)
+- **Typical Power Consumption:** 6 Watts
+- **Maximum Power Consumption:** 7.2 Watts (under full load)
 
 ### Additional Notes
 - Make sure to use a power supply that matches or exceeds the required specifications.
