@@ -183,6 +183,14 @@ The video below is a full demonstration of the T9 model. It is small and compact
 
 ![T9 Video with Enclosure](system_pictures/T9_complete_product.gif)
 
+# Setting up the product
+
+This section will document how to set up the hardware part of our project. For instructions on how to install the software system, please refer to the README_software.md. 
+
+## T0
+
+
+
 
 # Notes
 ## Datasheets
