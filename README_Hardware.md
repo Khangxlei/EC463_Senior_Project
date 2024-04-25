@@ -189,7 +189,30 @@ This section will document how to set up the hardware part of our project. For i
 
 ## T0
 
+Place the phone onto the phone holder compartment at the front of the panel (illustrated below). 
 
+![Phone on Holder of T0](hardware_diagrams/phone_holder_on_T0.png)
+
+   
+Now set up a circuit with the following schematic, same as the one that was shown in the circuit schematics section. Make sure to use the correct pins on the Arduino Nano!
+
+![Preview of T0 Circuit Diagram](hardware_diagrams/T0_Circuit_Diagram.jpg)
+
+From then, simply plug in the power cable for the Arduino Nano, click on the button and you should have a functioning 40 Hz flickering LED panel!
+
+## T9
+
+Setting up the T9 model is a lot simpler. Simply create the following circuit using the schematic below. From there, power the microcontroller using a micro-USB to USB-C cable and adjust the brightness using the two buttons. 
+
+![Preview of T9 Circuit Diagram](hardware_diagrams/T9_Circuit_Diagram.jpg)
+
+# Pictures of Final Product
+
+## T0
+
+
+
+## T9
 
 
 # Notes
