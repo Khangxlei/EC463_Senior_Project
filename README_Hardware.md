@@ -121,14 +121,14 @@ This section provides a clear view of the system inside the enclosure.
 
 These are pictures of the system circuit of the T0. This is what is inside the enclosure, before we placed a housing over it. The pictures displays the circuit board with the components that we used for the T0 model.
 ![System Circuit (1)](system_pictures/T0_Circuit_1.png)
-![System Circuit (2)](system_pictures/T0_Circuit_2.png)
+![System Circuit (2)](system_pictures/T0_Circuit_2.JPG)
 
 
 ## T9
 
 These pictures shows the system of the T9 model. The LED strips are not present as they are replaced by a simple red LED to make it easier to see the circuit. Below will be pictures of the LED being connected to our system that is being enclosed by our housing. 
-![System Circuit (1)](system_pictures/T9_circuit_1.png)
-![System Circuit (2)](system_pictures/T9_circuit_2.png)
+![System Circuit (1)](system_pictures/T9_circuit_1.jpg)
+![System Circuit (2)](system_pictures/T9_circuit_2.jpg)
 
 
 
