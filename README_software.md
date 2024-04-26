@@ -26,11 +26,11 @@ Installation for the Arduino Nano is simple, since the Nano is already a default
  - Open it via Arduino IDE.
  - At the top, click on the Dropdown where it says "_Select Board_", then click on "_Select other board and port_". A pop-up should then open.
 
-   ![Select board](software_installation_images/T0_select_board.png)
+   ![Select board](media/software_installation_images/T0_select_board.png)
    
  - On the pop-up, type in Nano and select "_Arduino Nano_", as well as the COM Port that you have the PC connected to with the Nano.
 
-   ![Selected board](software_installation_images/T0_selected_Nano.png)
+   ![Selected board](media/software_installation_images/T0_selected_Nano.png)
    
  - Click OK.
  - Now simply click Upload (top left button with the arrow icon pointing to the right) and your code should now be embedded into the Arduino Nano!
@@ -42,29 +42,29 @@ Installation for the Arduino Nano is simple, since the Nano is already a default
  - Open it via Arduino IDE.
  - At the top right, click Files > Preferences, or you can do it on your keyboard: Ctrl+Comma. At the bottom of the Preferences tab, there is a user input area for "_Additional boards manager URLs_". Paste in this link: <https://adafruit.github.io/arduino-board-index/package_adafruit_index.json>. If there are other links present, separate them with comma.
 
- ![Additional boards manager URLS](software_installation_images/T9_additional_boards_manager.png)
+ ![Additional boards manager URLS](media/software_installation_images/T9_additional_boards_manager.png)
 
  - Next, open Boards Manager by clicking on Tools > Board > Boards Manager.
    
- ![Boards Manager](software_installation_images/T9_boards_manager.png)
+ ![Boards Manager](media/software_installation_images/T9_boards_manager.png)
 
  - Search Arduino SAMD, and install the latest version of “Arduino SAMD Boards (32-bits ARM Cortex-M0+) by Arduino.
 
- ![SAMD Arduino](software_installation_images/T9_SAMD_Arduino.png)
+ ![SAMD Arduino](media/software_installation_images/T9_SAMD_Arduino.png)
 
  - Next, search Adafruit SAMD, and install the latest version of Adafruit SAMD Boards by Adafruit. By now, you should be able to find the Trinket M0 in your list of boards. 
 
-![SAMD Adafruit](software_installation_images/T9_SAMD_Adafruit.png)
+![SAMD Adafruit](media/software_installation_images/T9_SAMD_Adafruit.png)
 
  - Close Boards Manager.
  
  - At the top, click on the Dropdown where it says "_Select Board_", then click on "_Select other board and port_". A pop-up should then open.
 
-   ![Select board](software_installation_images/T0_select_board.png)
+   ![Select board](media/software_installation_images/T0_select_board.png)
    
  - On the pop-up, type in Trinket M0 and select "_Adafruit Trinket M0 (SAMD21)_", as well as the COM Port that you have the PC connected to with the Nano.
 
-   ![Selected board](software_installation_images/T9_selected_trinket.png)
+   ![Selected board](media/software_installation_images/T9_selected_trinket.png)
    
  - Click OK.
  - Now simply click Upload (top left button with the arrow icon pointing to the right) and your code should now be embedded into the Trinket!
