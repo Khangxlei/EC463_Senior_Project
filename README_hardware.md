@@ -4,15 +4,15 @@
 
 ### T0
 This is our circuit diagram for the T0 model. It uses pins 3, 4, and 5 as inputs and pins 5V and Ground as outputs. The circuit diagram illustrates an Arduino Nano wired with a button and a MOSFET towards an LED.
-![Preview of T0 Circuit Diagram](hardware_diagrams/T0_Circuit_Diagram.jpg)
-[View PDF of T0 Circuit Diagram](hardware_diagrams/T0_Circuit_Diagram.pdf)
+![Preview of T0 Circuit Diagram](media/hardware_diagrams/T0_Circuit_Diagram.jpg)
+[View PDF of T0 Circuit Diagram](media/hardware_diagrams/T0_Circuit_Diagram.pdf)
 
 
 ### T9
 This is our circuit diagram for the T9 model. It uses pins 0, 3, and 4 as inputs and pins 3V and Ground as outputs. The circuit diagram illustrates an Arduino Nano wired with 2 buttons and a MOSFET towards an LED.
 
-![Preview of T9 Circuit Diagram](hardware_diagrams/T9_Circuit_Diagram.jpg)
-[View PDF of T9 Circuit Digram](hardware_diagrams/T9_Circuit_Diagram.pdf)
+![Preview of T9 Circuit Diagram](media/hardware_diagrams/T9_Circuit_Diagram.jpg)
+[View PDF of T9 Circuit Digram](media/hardware_diagrams/T9_Circuit_Diagram.pdf)
 
 
 
@@ -23,20 +23,20 @@ This is our circuit diagram for the T9 model. It uses pins 0, 3, and 4 as inputs
 This is the CAD design for our T0 Housing. It consist of one button integrated along with an area for users to plug in the power cable to turn on the model. We have also uploaded the .stl file under the _hardware_diagrams/CAD_ folder and attached a PDF version of the CAD design down below.
 
 
-![T0 Housing](hardware_diagrams/CAD/T0_Housing.png) [View PDF of T0 Housing](hardware_diagrams/CAD/T0_Housing.pdf)   
+![T0 Housing](media/hardware_diagrams/CAD/T0_Housing.png) [View PDF of T0 Housing](media/hardware_diagrams/CAD/T0_Housing.pdf)   
 
 #### CAD File (.STL) 
 Download the STL file for the T0 Model CAD design here: 
-- [T0 STL CAD File)](hardware_diagrams/CAD/T0_Housing.stl)
+- [T0 STL CAD File)](media/hardware_diagrams/CAD/T0_Housing.stl)
 
 ### T0 Panel Stand
 We used a pre-existing CAD design for a panel stand. This design allows 5 different angle configurations for the user to use the panel at whichever height they desire. We have also uploaded the .stl file under the _hardware_diagrams/CAD_ folder and attached a PDF version of the CAD design down below.
 
-![T0 Stand Arm](hardware_diagrams/CAD/T0_Stand_Arm.png) [View PDF of T0 Stand Arm](hardware_diagrams/CAD/T0_Stand_Arm.pdf)   
+![T0 Stand Arm](media/hardware_diagrams/CAD/T0_Stand_Arm.png) [View PDF of T0 Stand Arm](media/hardware_diagrams/CAD/T0_Stand_Arm.pdf)   
    
-![T0 Stand Hook](hardware_diagrams/CAD/T0_Stand_Hook.png) [View PDF of T0 Stand Hook](hardware_diagrams/CAD/T0_Stand_Hook.pdf)    
+![T0 Stand Hook](media/hardware_diagrams/CAD/T0_Stand_Hook.png) [View PDF of T0 Stand Hook](media/hardware_diagrams/CAD/T0_Stand_Hook.pdf)    
    
-![T0 Stand Bottom](hardware_diagrams/CAD/T0_Stand_Bottom.png) [View PDF of T0 Stand Bottom](hardware_diagrams/CAD/T0_Stand_Bottom.pdf)    
+![T0 Stand Bottom](media/hardware_diagrams/CAD/T0_Stand_Bottom.png) [View PDF of T0 Stand Bottom](media/hardware_diagrams/CAD/T0_Stand_Bottom.pdf)    
 
 
 
@@ -44,30 +44,30 @@ We used a pre-existing CAD design for a panel stand. This design allows 5 differ
 
 #### CAD File (.STL)
 Download the STL file for the T0 Model CAD design here: _Emily should send the .stl files and replace that with this_
-- [T0 Stand STL CAD File (1/3)](hardware_diagrams/CAD/T0_Stand_Arm.stl)
-- [T0 Stand STL CAD File (2/3)](hardware_diagrams/CAD/T0_Stand_Bottom.stl)
-- [T0 Stand STL CAD File (3/3)](hardware_diagrams/CAD/T0_Stand_Hook.stl)
+- [T0 Stand STL CAD File (1/3)](media/hardware_diagrams/CAD/T0_Stand_Arm.stl)
+- [T0 Stand STL CAD File (2/3)](media/hardware_diagrams/CAD/T0_Stand_Bottom.stl)
+- [T0 Stand STL CAD File (3/3)](media/hardware_diagrams/CAD/T0_Stand_Hook.stl)
   
 ### T9
 This is the CAD design for our T9 Housing. It consist of 2 buttons integrated, along with a hollow bridge that allows the wires to run from the circuit board to the LED that is placed along the small panel above. It also has an open area to allow users to plug in their power cable. The .stl file is under the _hardware_diagrams/CAD_ folder and attached a PDF version of the CAD design down below.
 
-![T9 Housing (1/3)](hardware_diagrams/CAD/T9_Housing_1.png) 
+![T9 Housing (1/3)](media/hardware_diagrams/CAD/T9_Housing_1.png) 
    
-[View PDF of T9 Housing 1](hardware_diagrams/CAD/T9_Housing_1.pdf)   
+[View PDF of T9 Housing 1](media/hardware_diagrams/CAD/T9_Housing_1.pdf)   
    
-![T9 Housing (2/3)](hardware_diagrams/CAD/T9_Housing_2.png) 
+![T9 Housing (2/3)](media/hardware_diagrams/CAD/T9_Housing_2.png) 
    
-[View PDF of T9 Housing 2](hardware_diagrams/CAD/T9_Housing_2.pdf)    
+[View PDF of T9 Housing 2](media/hardware_diagrams/CAD/T9_Housing_2.pdf)    
    
-![T9 Housing (3/3)](hardware_diagrams/CAD/T9_Housing_3.png) 
+![T9 Housing (3/3)](media/hardware_diagrams/CAD/T9_Housing_3.png) 
    
-[View PDF of T9 Housing 3](hardware_diagrams/CAD/T9_Housing_3.pdf)    
+[View PDF of T9 Housing 3](media/hardware_diagrams/CAD/T9_Housing_3.pdf)    
 
 #### CAD File (.STL)
 Download the STL file for the T9 Model CAD design here:
-- [T9 STL CAD File (1/3)](hardware_diagrams/CAD/T9_Trinket_housing_cover.stl)
-- [T9 STL CAD File (2/3)](hardware_diagrams/CAD/T9_Trinket_housing.stl)
-- [T9 STL CAD File (3/3)](hardware_diagrams/CAD/T9_prototyping_board_housing.stl)
+- [T9 STL CAD File (1/3)](media/hardware_diagrams/CAD/T9_Trinket_housing_cover.stl)
+- [T9 STL CAD File (2/3)](media/hardware_diagrams/CAD/T9_Trinket_housing.stl)
+- [T9 STL CAD File (3/3)](media/hardware_diagrams/CAD/T9_prototyping_board_housing.stl)
 
 # Bill of Materials (BOM)
 The following table includes a detailed list of all the materials used in the project, along with vendor information for each component:
@@ -151,29 +151,29 @@ This section provides a clear view of the system inside the enclosure.
 
 These are pictures of the system circuit for the T0 model. This is what is inside the enclosure, before we placed a housing over it. The pictures displays the circuit board with the components that we used for the T0 model.
 
-![System Circuit (1)](system_pictures/circuit/T0_Circuit_1.png)
-![System Circuit (2)](system_pictures/circuit/T0_Circuit_2.JPG)
+![System Circuit (1)](media/system_pictures/circuit/T0_Circuit_1.png)
+![System Circuit (2)](media/system_pictures/circuit/T0_Circuit_2.JPG)
 
 
 ## T9 (inside enclosure)
 
 The picture below shows the system for the T9 model. The two yellow wires are the power and ground wires connecting towards the LED. 
 
-![System Circuit (1)](system_pictures/circuit/T9_Circuit_1.png)
+![System Circuit (1)](media/system_pictures/circuit/T9_Circuit_1.png)
 
 ## T0 (with enclosure)
 
 These are pictures of the system circuit for the T0 model. This is what is inside the enclosure, before we placed a housing over it. The pictures displays the circuit board with the components that we used for the T0 model.
 
-![T0 Complete Circuit Front](system_pictures/enclosure/T0_enclosure_front.png)
-![T0 Complete Circuit Back](system_pictures/enclosure/T0_enclosure_back.jpg)
+![T0 Complete Circuit Front](media/system_pictures/enclosure/T0_enclosure_front.png)
+![T0 Complete Circuit Back](media/system_pictures/enclosure/T0_enclosure_back.jpg)
 
 
 ## T9 (with enclosure)
 
 The video below is a full demonstration of the T9 model. It is small and compact and there are buttons in the back that are used to adjust the brightness intensity of the LED. 
 
-![T9 Video with Enclosure](system_pictures/enclosure/T9_enclosure.gif)
+![T9 Video with Enclosure](media/system_pictures/enclosure/T9_enclosure.gif)
 
 # Setting up the product
 
@@ -183,12 +183,12 @@ This section will document how to set up the hardware part of our project. For i
 
 Place the phone onto the phone holder compartment at the front of the panel (illustrated below). 
 
-![Phone on Holder of T0](hardware_diagrams/phone_holder_on_T0.png)
+![Phone on Holder of T0](media/hardware_diagrams/phone_holder_on_T0.png)
 
    
 Now set up a circuit with the following schematic, same as the one that was shown in the circuit schematics section. Make sure to use the correct pins on the Arduino Nano!
 
-![Preview of T0 Circuit Diagram](hardware_diagrams/T0_Circuit_Diagram.jpg)
+![Preview of T0 Circuit Diagram](media/hardware_diagrams/T0_Circuit_Diagram.jpg)
 
 From then, simply plug in the power cable for the Arduino Nano, click on the button and you should have a functioning 40 Hz flickering LED panel!
 
@@ -196,22 +196,22 @@ From then, simply plug in the power cable for the Arduino Nano, click on the but
 
 Setting up the T9 model is a lot simpler. Simply create the following circuit using the schematic below. From there, power the microcontroller using a micro-USB to USB-C cable and adjust the brightness using the two buttons. 
 
-![Preview of T9 Circuit Diagram](hardware_diagrams/T9_Circuit_Diagram.jpg)
+![Preview of T9 Circuit Diagram](media/hardware_diagrams/T9_Circuit_Diagram.jpg)
 
 # Pictures of Final Product
 
 ## T0
 
-![Picture of T0 System (Front)](system_pictures/system/T0_system_front.jpg)
-![Picture of T0 System (Side)](system_pictures/system/T0_system_side.jpg)
-![Picture of T0 System (Back)](system_pictures/system/T0_system_back.jpg)
-![Picture of T0 System (Front with Phone)](system_pictures/system/T0_system_front_with_phone.jpg)
+![Picture of T0 System (Front)](media/system_pictures/system/T0_system_front.jpg)
+![Picture of T0 System (Side)](media/system_pictures/system/T0_system_side.jpg)
+![Picture of T0 System (Back)](media/system_pictures/system/T0_system_back.jpg)
+![Picture of T0 System (Front with Phone)](media/system_pictures/system/T0_system_front_with_phone.jpg)
 
 ## T9
 
-![Picture of T9 System (Front)](system_pictures/system/T9_system_front.jpg)
-![Picture of T9 System (Side)](system_pictures/system/T9_system_side.jpg)
-![Picture of T9 System (Back)](system_pictures/system/T9_system_back.jpg)
+![Picture of T9 System (Front)](media/system_pictures/system/T9_system_front.jpg)
+![Picture of T9 System (Side)](media/system_pictures/system/T9_system_side.jpg)
+![Picture of T9 System (Back)](media/system_pictures/system/T9_system_back.jpg)
 
 
 # Notes
