@@ -202,6 +202,8 @@ Setting up the T9 model is a lot simpler. Simply create the following circuit us
 
 ## T0
 
+![Picture of T0 System (Back)](system_pictures/T0_system_front.jpg)
+
 
 
 ## T9
