@@ -40,17 +40,17 @@ For this product we have 2 different models catered towards different purposes. 
 
 The phone would be attached onto the panel using an integrated phone holder, and at the back of the panel is where the power button resides. Simply, press it and the user will be able to use their phone without having to hold it, while being exposed to 40Hz light that is proven to help with Alzheimer’s Disease and dementia. The figure down below shows that we have the power supply being the wall outlet connected to the power module that will help power up the circuit. The panel stand will hold the LED panel, in which we have an Arduino Nano as the microcontroller connecting the hardware and software components that will act as the controller to transfer an ON/OFF signal into the LED panel. 
 
-![T0 System Architecture](system_architecture/T0_System_architecture.png) 
+![T0 System Architecture](media/system_architecture/T0_System_architecture.png) 
   
-[View PDF of T0 System Architecture](system_architecture/T0_System_architecture.pdf)
+[View PDF of T0 System Architecture](media/system_architecture/T0_System_architecture.pdf)
 
 ### T9
 
 The figure down below is the overall system block diagram for the T9 model. It is a lot more streamlined and compact compared to the T9 model and is tailored more towards user’s convenience and needs. It has a phone cable that connects the phone into the microcontroller, which takes input of the brightness module and sends the corresponding signal to adjust the brightness of the LED accordingly. The software components for both models stay relatively the same as they are both compatible with Arduino code. 
 
-![T9 System Architecture](system_architecture/T9_system_architecture.png)
+![T9 System Architecture](media/system_architecture/T9_system_architecture.png)
   
-[View PDF of T9 System Architecture](system_architecture/T9_system_architecture.pdf)
+[View PDF of T9 System Architecture](media/system_architecture/T9_system_architecture.pdf)
 
 
 
