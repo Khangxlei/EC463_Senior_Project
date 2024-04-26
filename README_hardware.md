@@ -165,15 +165,15 @@ The picture below shows the system for the T9 model. The two yellow wires are th
 
 These are pictures of the system circuit for the T0 model. This is what is inside the enclosure, before we placed a housing over it. The pictures displays the circuit board with the components that we used for the T0 model.
 
-![T0 Complete Circuit Front](system_pictures/enclosure/T0_complete_product_front.png)
-![T0 Complete Circuit Back](system_pictures/enclosure/T0_complete_product_back.jpg)
+![T0 Complete Circuit Front](system_pictures/enclosure/T0_enclosure_front.png)
+![T0 Complete Circuit Back](system_pictures/enclosure/T0_enclosure_back.jpg)
 
 
 ## T9 (with enclosure)
 
 The video below is a full demonstration of the T9 model. It is small and compact and there are buttons in the back that are used to adjust the brightness intensity of the LED. 
 
-![T9 Video with Enclosure](system_pictures/enclosure/T9_complete_product.gif)
+![T9 Video with Enclosure](system_pictures/enclosure/T9_enclosure.gif)
 
 # Setting up the product
 
