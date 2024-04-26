@@ -151,29 +151,29 @@ This section provides a clear view of the system inside the enclosure.
 
 These are pictures of the system circuit for the T0 model. This is what is inside the enclosure, before we placed a housing over it. The pictures displays the circuit board with the components that we used for the T0 model.
 
-![System Circuit (1)](system_pictures/T0_Circuit_1.png)
-![System Circuit (2)](system_pictures/T0_Circuit_2.JPG)
+![System Circuit (1)](system_pictures/circuit/T0_Circuit_1.png)
+![System Circuit (2)](system_pictures/circuit/T0_Circuit_2.JPG)
 
 
 ## T9 (inside enclosure)
 
 The picture below shows the system for the T9 model. The two yellow wires are the power and ground wires connecting towards the LED. 
 
-![System Circuit (1)](system_pictures/T9_Circuit_1.png)
+![System Circuit (1)](system_pictures/circuit/T9_Circuit_1.png)
 
 ## T0 (with enclosure)
 
 These are pictures of the system circuit for the T0 model. This is what is inside the enclosure, before we placed a housing over it. The pictures displays the circuit board with the components that we used for the T0 model.
 
-![T0 Complete Circuit Front](system_pictures/T0_complete_product_front.png)
-![T0 Complete Circuit Back](system_pictures/T0_complete_product_back.jpg)
+![T0 Complete Circuit Front](system_pictures/enclosure/T0_complete_product_front.png)
+![T0 Complete Circuit Back](system_pictures/enclosure/T0_complete_product_back.jpg)
 
 
 ## T9 (with enclosure)
 
 The video below is a full demonstration of the T9 model. It is small and compact and there are buttons in the back that are used to adjust the brightness intensity of the LED. 
 
-![T9 Video with Enclosure](system_pictures/T9_complete_product.gif)
+![T9 Video with Enclosure](system_pictures/enclosure/T9_complete_product.gif)
 
 # Setting up the product
 
@@ -202,11 +202,16 @@ Setting up the T9 model is a lot simpler. Simply create the following circuit us
 
 ## T0
 
-![Picture of T0 System (Back)](system_pictures/T0_system_front.jpg)
-
-
+![Picture of T0 System (Front)](system_pictures/system/T0_system_front.jpg)
+![Picture of T0 System (Side)](system_pictures/system/T0_system_side.jpg)
+![Picture of T0 System (Back)](system_pictures/system/T0_system_back.jpg)
+![Picture of T0 System (Front with Phone)](system_pictures/system/T0_system_front_with_phone.jpg)
 
 ## T9
+
+![Picture of T9 System (Front)](system_pictures/system/T9_system_front.jpg)
+![Picture of T9 System (Side)](system_pictures/system/T9_system_side.jpg)
+![Picture of T9 System (Back)](system_pictures/system/T9_system_back.jpg)
 
 
 # Notes
